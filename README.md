@@ -1,24 +1,5 @@
-# clone-whatsapp-vue
+# Clone Whatsapp Web Application
 
-## Project setup
-```
-yarn install
-```
+Estudando vue.js clonando a interface do whatsapp web
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="https://user-images.githubusercontent.com/60573155/151678394-4a45e709-1cea-475b-8d8e-c85a8c2de967.gif">
